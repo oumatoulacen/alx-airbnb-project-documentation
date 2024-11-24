@@ -1,1 +1,1 @@
-Design the Use Case Diagram of the Features and Functionalities
+Visualize system interactions using a use case diagram.
